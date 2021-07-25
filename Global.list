@@ -1,4 +1,32 @@
-OXY
+# (DNS Cache Pollution)
+# > Amazon
+DOMAIN-SUFFIX,amazon.co.jp,海外服务
+DOMAIN,d3c33hcgiwev3.cloudfront.net,海外服务
+DOMAIN,payments-jp.amazon.com,海外服务
+DOMAIN,s3-ap-northeast-1.amazonaws.com,海外服务
+DOMAIN,s3-ap-southeast-2.amazonaws.com,海外服务
+# > Akamai
+DOMAIN,a248.e.akamai.net,海外服务
+DOMAIN,a771.dscq.akamai.net,海外服务
+# > Apple
+DOMAIN,testflight.apple.com,海外服务
+# > Crypto
+DOMAIN-SUFFIX,aex.com,海外服务
+DOMAIN-SUFFIX,bibox.com,海外服务
+DOMAIN-SUFFIX,binance.cc,海外服务
+DOMAIN-SUFFIX,binance.com,海外服务
+DOMAIN-SUFFIX,bitcointalk.org,海外服务
+DOMAIN-SUFFIX,bitfinex.com,海外服务
+DOMAIN-SUFFIX,bitmex.com,海外服务
+DOMAIN-SUFFIX,gate.io,海外服务
+DOMAIN-SUFFIX,huobi.com,海外服务
+DOMAIN-SUFFIX,okex.com,海外服务
+DOMAIN-SUFFIX,uniswap.org,海外服务
+DOMAIN-SUFFIX,zb.com,海外服务
+# > Discord
+DOMAIN-SUFFIX,discord.com,海外服务
+DOMAIN-SUFFIX,discordapp.com,海外服务
+DOMAIN-SUFFIX,discordapp.net,海外服务
 # > Dropbox
 DOMAIN-SUFFIX,dropbox.com,海外服务
 DOMAIN-SUFFIX,dropboxapi.com,海外服务
